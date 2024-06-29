@@ -39,6 +39,8 @@
 
 (b)
 
+![This is an alt text.](/image.png "This is a sample image.")
+
 (c)
 
 (d)

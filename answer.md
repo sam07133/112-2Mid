@@ -39,7 +39,7 @@
 
 (b)
 
-![This is an alt text.](/image.png "This is a sample image.")
+![image][def]
 
 (c)
 
@@ -93,3 +93,6 @@ public void mt_getResult(){
 </html>
 ```
 更多markdown方法可參閱[https://ithelp.ithome.com.tw/articles/10203758](https://ithelp.ithome.com.tw/articles/10203758)
+
+
+[def]: /image.png
